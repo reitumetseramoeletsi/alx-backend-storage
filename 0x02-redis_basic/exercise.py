@@ -140,4 +140,4 @@ class Cache:
         Returns:
             int: data
         """
-        data = 
+        data = self
